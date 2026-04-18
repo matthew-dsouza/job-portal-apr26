@@ -1,14 +1,11 @@
-# Job Portal (Full Stack)
+# Job Portal
 
-Tech Stack:
-- Spring Boot
-- React
-- MySQL
+Full-stack job portal built with Java, Spring Boot, React, Vite, and MySQL/PostgreSQL.
 
-Features:
-- Role-based auth
-- Job posting & tracking
-- Dashboard analytics
-
-Status:
-🚧 In Progress
+## Planned modules
+- Authentication
+- Role-based access
+- Job posting
+- Job applications
+- Application tracking
+- Admin dashboard

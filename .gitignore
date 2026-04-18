@@ -1,15 +1,25 @@
+# macOS
+.DS_Store
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
 # Node
-node_modules/
-build/
+frontend/node_modules/
+frontend/dist/
 
 # Java
-target/
-*.class
-*.jar
-*.log
-
-# OS
-.DS_Store
+backend/target/
+backend/.mvn/
+backend/logs/
 
 # Env
 .env
+*.env
+
+# Uploads
+uploads/
