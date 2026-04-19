@@ -8,6 +8,6 @@ public class TestController {
 
     @GetMapping("/api/test/health")
     public String healthCheck() {
-        return "Backend is running 🚀";
+        return "Backend is running";
     }
 }
