@@ -10,10 +10,13 @@
 *.log
 logs/
 
-# Env files
+# Environment files
 .env
 .env.*
 !.env.example
+
+# Local Spring profiles
+application-dev.properties
 
 # Node
 node_modules/
